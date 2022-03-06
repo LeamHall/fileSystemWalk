@@ -1,3 +1,8 @@
+# local stuff
+
+fsWalk
+
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
